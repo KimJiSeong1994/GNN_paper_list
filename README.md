@@ -9,4 +9,4 @@
 * <a href = "https://arxiv.org/pdf/1911.03082.pdf?ref=https://githubhelp.com"> Composition-based Multi-relational Graph Convolutional Networks </a> :: <a href = "https://github.com/malllabiisc/CompGCN"> [ git-hub ] </a>
 
 **2.1 NLP + GNN task** 
-* <a hreof = "https://arxiv.org/pdf/1809.05679.pdf"> Graph Convoultional Networks for Text Classification</a>
+* <a href = "https://arxiv.org/pdf/1809.05679.pdf"> Graph Convoultional Networks for Text Classification </a>
