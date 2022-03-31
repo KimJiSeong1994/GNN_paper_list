@@ -11,3 +11,7 @@
 
 **2.1 NLP + GNN task** 
 * <a href = "https://arxiv.org/pdf/1809.05679.pdf"> Graph Convoultional Networks for Text Classification </a>
+
+---
+**3. Link prediction**
+* <a href = "https://proceedings.neurips.cc/paper/2018/file/53f0d7c537d99b3824f0f99d62ea2428-Paper.pdf"> Link Prediction Based on Graph Neural Netowks </a>
