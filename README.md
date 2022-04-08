@@ -17,3 +17,7 @@
 ---
 **3. Link prediction**
 * <a href = "https://proceedings.neurips.cc/paper/2018/file/53f0d7c537d99b3824f0f99d62ea2428-Paper.pdf"> Link Prediction Based on Graph Neural Netowks </a>
+
+---
+**4. focus on heterogenous graph**
+* <a href = "https://arxiv.org/pdf/1911.06455.pdf"> Graph Transformer Networks </a>
