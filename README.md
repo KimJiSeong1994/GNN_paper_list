@@ -19,6 +19,7 @@
 
 **2.2 Recommendation System + GNN task**
 * <a href = "https://arxiv.org/pdf/1806.01973.pdf"> Graph Convolutional Neural Networks for Web-Scale Recommender Systems </a>
+* <a href = "https://arxiv.org/pdf/1902.07243.pdf"> Graph Neural Networks for Social Recommendation </a>
 
 ---
 **3. Link prediction**
