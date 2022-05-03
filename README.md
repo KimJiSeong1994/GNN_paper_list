@@ -17,6 +17,9 @@
 **2.2 Vision + GNN task**
 * <a href = "https://arxiv.org/pdf/2008.02457.pdf"> Graph Convolutional Networks for Hyperspectral Image Classification </a>
 
+**2.2 Recommendation System + GNN task**
+* <a href = "https://arxiv.org/pdf/1806.01973.pdf"> Graph Convolutional Neural Networks for Web-Scale Recommender Systems </a>
+
 ---
 **3. Link prediction**
 * <a href = "https://proceedings.neurips.cc/paper/2018/file/53f0d7c537d99b3824f0f99d62ea2428-Paper.pdf"> Link Prediction Based on Graph Neural Netowks </a>
