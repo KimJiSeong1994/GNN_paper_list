@@ -5,12 +5,12 @@
 * <a href = "https://arxiv.org/pdf/1709.07604.pdf?ref=https://githubhelp.com">A Comprehensive Survey of Graph Embedding - Problems, Techniques and Applications </a>
 * <a href = "https://reader.elsevier.com/reader/sd/pii/S2666651021000012?token=16C2A9332AE81F4D54098EEE79D8535A40695603E95EDA396E895AA03C704FB54F1C28DA614FF06943FA85AEBB7F8603&originRegion=us-east-1&originCreation=20220330071910"> Graph neural networks: A review of methods and applications </a>
 * <a href = "https://arxiv.org/pdf/2109.12843.pdf"> Graph Neural Netwokrs for Recommender Systems : Challenges, Methods, and Directions </a>
-* <a href = "https://ieeexplore.ieee.org/document/9207639"> GCN-LRP explanation: exploring latent attention of graph convolutional networks </a>
 ---
 
 **2. Node Classfication**
 * <a href = "https://arxiv.org/pdf/1609.02907.pdf"> Semi-Supervised Classification with Graph Convolutional Networks </a> :: <a href = "https://melon-buffer-f27.notion.site/Semi-supervised-Classification-with-Graph-Convolutional-Networks-06320f5d92c04f418dcefd1fecedba68"> [ paper_reivew ] </a> 
 * <a href = "https://arxiv.org/pdf/1911.03082.pdf?ref=https://githubhelp.com"> Composition-based multi-relational graph convolutional networks </a>
+* <a href = "https://ieeexplore.ieee.org/document/9207639"> GCN-LRP explanation: exploring latent attention of graph convolutional networks </a>
 * <a href = "https://arxiv.org/pdf/1801.03226.pdf"> Adaptive Graph Convolutional Neural Networks </a>
 * <a href = "https://arxiv.org/pdf/1703.06103.pdf"> Modeling Relational Data with Graph Convolutional Networks</a>
 
