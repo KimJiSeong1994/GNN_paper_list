@@ -10,7 +10,8 @@
 
 **2. Node Classfication**
 * <a href = "https://arxiv.org/pdf/1609.02907.pdf"> Semi-Supervised Classification with Graph Convolutional Networks </a> :: <a href = "https://melon-buffer-f27.notion.site/Semi-supervised-Classification-with-Graph-Convolutional-Networks-06320f5d92c04f418dcefd1fecedba68"> [ paper_reivew ] </a> 
-* <a href = "https://arxiv.org/pdf/1911.03082.pdf?ref=https://githubhelp.com"> </a>
+* <a href = "https://arxiv.org/pdf/1911.03082.pdf?ref=https://githubhelp.com"> COMPOSITION-BASED MULTI-RELATIONAL
+GRAPH CONVOLUTIONAL NETWORKS </a>
 * <a href = "https://arxiv.org/pdf/1801.03226.pdf"> Adaptive Graph Convolutional Neural Networks </a>
 * <a href = "https://arxiv.org/pdf/1703.06103.pdf"> Modeling Relational Data with Graph Convolutional Networks</a>
 
