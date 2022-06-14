@@ -13,9 +13,9 @@
 * <a href = "https://arxiv.org/pdf/1706.02216.pdf"> Inductive Representation Learning on Large Graphs - GraphSAGE </a>
 * <a href = "https://arxiv.org/pdf/1911.03082.pdf?ref=https://githubhelp.com"> Composition-based multi-relational graph convolutional networks </a>
 * <a href = "https://ieeexplore.ieee.org/document/9207639"> GCN-LRP explanation: exploring latent attention of graph convolutional networks </a>
-* <a href = "https://arxiv.org/pdf/1801.03226.pdf"> Adaptive Graph Convolutional Neural Networks </a>
+* <a href = "https://arxiv.org/pdf/1801.03226.pdf"> Adaptive Graph Convolutional Neural Networks - AGCN </a>
 * <a href = "https://arxiv.org/pdf/1703.06103.pdf"> Modeling Relational Data with Graph Convolutional Networks</a>
-* <a href = "https://arxiv.org/pdf/1710.10903.pdf"> Graph Attention Networks </a> :: <a href = "https://melon-buffer-f27.notion.site/Graph-Attention-Networks-59c1ce15b51440a8b057edb2e2aa2189"> [ paper_review ] </a> 
+* <a href = "https://arxiv.org/pdf/1710.10903.pdf"> Graph Attention Networks - GAT</a> :: <a href = "https://melon-buffer-f27.notion.site/Graph-Attention-Networks-59c1ce15b51440a8b057edb2e2aa2189"> [ paper_review ] </a> 
 
 **2.1 NLP + GNN task** 
 * <a href = "https://arxiv.org/pdf/1809.05679.pdf"> Graph Convoultional Networks for Text Classification </a>
