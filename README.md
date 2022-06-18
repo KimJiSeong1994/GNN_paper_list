@@ -16,6 +16,7 @@
 * <a href = "https://arxiv.org/pdf/1801.03226.pdf"> Adaptive Graph Convolutional Neural Networks - AGCN </a>
 * <a href = "https://arxiv.org/pdf/1703.06103.pdf"> Modeling Relational Data with Graph Convolutional Networks</a>
 * <a href = "https://arxiv.org/pdf/1710.10903.pdf"> Graph Attention Networks - GAT</a> :: <a href = "https://melon-buffer-f27.notion.site/Graph-Attention-Networks-59c1ce15b51440a8b057edb2e2aa2189"> [ paper_review ] </a> 
+* <a href = "https://arxiv.org/pdf/1911.06455.pdf"> Graph Transformer Networks </a>
 
 **2.1 NLP + GNN task** 
 * <a href = "https://arxiv.org/pdf/1809.05679.pdf"> Graph Convoultional Networks for Text Classification </a>
@@ -31,6 +32,3 @@
 **3. Link prediction**
 * <a href = "https://proceedings.neurips.cc/paper/2018/file/53f0d7c537d99b3824f0f99d62ea2428-Paper.pdf"> Link Prediction Based on Graph Neural Netowks </a>
 
----
-**4. Focus on heterogenous graph**
-* <a href = "https://arxiv.org/pdf/1911.06455.pdf"> Graph Transformer Networks </a>
