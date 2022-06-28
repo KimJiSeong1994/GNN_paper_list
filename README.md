@@ -7,7 +7,11 @@
 * <a href = "https://arxiv.org/pdf/2109.12843.pdf"> Graph Neural Netwokrs for Recommender Systems : Challenges, Methods, and Directions </a>
 ---
 
-**2. Aggregate architecture**
+**2. reserch** 
+* <a href = "https://arxiv.org/pdf/2106.05234.pdf"> Do Transformers Really Perform Bad for Graph Representation? </a>
+---
+
+**3. Aggregate architecture**
 * <a href = "https://arxiv.org/pdf/1609.02907.pdf"> Semi-Supervised Classification with Graph Convolutional Networks - GCN </a> :: <a href = "https://melon-buffer-f27.notion.site/Semi-supervised-Classification-with-Graph-Convolutional-Networks-06320f5d92c04f418dcefd1fecedba68"> [ paper_review ] </a>
 * <a href = "https://arxiv.org/pdf/1511.05493.pdf"> Gated Graph Sequence Neural Networks - GGNN </a>
 * <a href = "https://arxiv.org/pdf/1706.02216.pdf"> Inductive Representation Learning on Large Graphs - GraphSAGE </a>
@@ -17,18 +21,12 @@
 * <a href = "https://arxiv.org/pdf/1703.06103.pdf"> Modeling Relational Data with Graph Convolutional Networks</a>
 * <a href = "https://arxiv.org/pdf/1710.10903.pdf"> Graph Attention Networks - GAT</a> :: <a href = "https://melon-buffer-f27.notion.site/Graph-Attention-Networks-59c1ce15b51440a8b057edb2e2aa2189"> [ paper_review ] </a> 
 * <a href = "https://arxiv.org/pdf/1911.06455.pdf"> Graph Transformer Networks </a>
+---
 
-**2.1 NLP + GNN task** 
+**4. Application** 
 * <a href = "https://arxiv.org/pdf/1809.05679.pdf"> Graph Convoultional Networks for Text Classification </a>
-
-**2.2 Vision + GNN task**
 * <a href = "https://arxiv.org/pdf/2008.02457.pdf"> Graph Convolutional Networks for Hyperspectral Image Classification - MiniGCN </a> :: <a href = "https://melon-buffer-f27.notion.site/Graph-Convoluional-Networks-for-Hyperspectral-Image-Classification-c00146a71d7e4646871617b31ec6b31d"> [ paper_review ] </a>
-
-**2.2 Recommendation System + GNN task**
 * <a href = "https://arxiv.org/pdf/1806.01973.pdf"> Graph Convolutional Neural Networks for Web-Scale Recommender Systems </a>
 * <a href = "https://arxiv.org/pdf/1902.07243.pdf"> Graph Neural Networks for Social Recommendation </a>
-
 ---
-**3. Link prediction**
-* <a href = "https://proceedings.neurips.cc/paper/2018/file/53f0d7c537d99b3824f0f99d62ea2428-Paper.pdf"> Link Prediction Based on Graph Neural Netowks </a>
 
