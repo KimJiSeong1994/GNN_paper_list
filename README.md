@@ -20,7 +20,7 @@
 * <a href = "https://arxiv.org/pdf/1801.03226.pdf"> Adaptive Graph Convolutional Neural Networks - AGCN </a>
 * <a href = "https://arxiv.org/pdf/1703.06103.pdf"> Modeling Relational Data with Graph Convolutional Networks</a>
 * <a href = "https://arxiv.org/pdf/1710.10903.pdf"> Graph Attention Networks - GAT</a> :: <a href = "https://melon-buffer-f27.notion.site/Graph-Attention-Networks-59c1ce15b51440a8b057edb2e2aa2189"> [ paper_review ] </a> 
-* <a href = "https://arxiv.org/pdf/1911.06455.pdf"> Graph Transformer Networks </a>
+* <a href = "https://arxiv.org/pdf/1911.06455.pdf"> Graph Transformer Networks - GTN </a>
 ---
 
 **4. Application** 
