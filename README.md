@@ -24,14 +24,20 @@
 * <a href = "https://arxiv.org/pdf/1911.06455.pdf"> Graph Transformer Networks - GTN </a>
 ---
 
-**4. Application** 
-**Recommendation System**
-* <a href = "https://arxiv.org/pdf/1806.01973.pdf"> Graph Convolutional Neural Networks for Web-Scale Recommender Systems - PinSAGE </a>
-
+**4.1 Application : Text**
 * <a href = "https://arxiv.org/pdf/1809.05679.pdf"> Graph Convoultional Networks for Text Classification </a>
-* <a href = "https://arxiv.org/pdf/2008.02457.pdf"> Graph Convolutional Networks for Hyperspectral Image Classification - miniGCN </a> :: <a href = "https://melon-buffer-f27.notion.site/Graph-Convoluional-Networks-for-Hyperspectral-Image-Classification-c00146a71d7e4646871617b31ec6b31d"> [ paper_review ] </a>
-* <a href = "https://arxiv.org/pdf/1806.01973.pdf"> Graph Convolutional Neural Networks for Web-Scale Recommender Systems </a>
-* <a href = "https://arxiv.org/pdf/1902.07243.pdf"> Graph Neural Networks for Social Recommendation </a>
-* <a href = "https://towardsdatascience.com/graphgps-navigating-graph-transformers-c2cc223a051c"> GraphGPS: Navigating Graph Transformers </a>
 ---
 
+**4.2 Application : Recommendation System**
+* <a href = "https://arxiv.org/pdf/1806.01973.pdf"> Graph Convolutional Neural Networks for Web-Scale Recommender Systems - PinSAGE </a>
+* <a href = "https://arxiv.org/pdf/1806.01973.pdf"> Graph Convolutional Neural Networks for Web-Scale Recommender Systems </a>
+* <a href = "https://arxiv.org/pdf/1902.07243.pdf"> Graph Neural Networks for Social Recommendation </a>
+---
+
+**4.3 Application : Image**
+* <a href = "https://arxiv.org/pdf/2008.02457.pdf"> Graph Convolutional Networks for Hyperspectral Image Classification - miniGCN </a> :: <a href = "https://melon-buffer-f27.notion.site/Graph-Convoluional-Networks-for-Hyperspectral-Image-Classification-c00146a71d7e4646871617b31ec6b31d"> [ paper_review ] </a>
+---
+
+**4.4 Application : GIS**
+* <a href = "https://towardsdatascience.com/graphgps-navigating-graph-transformers-c2cc223a051c"> GraphGPS: Navigating Graph Transformers </a>
+---
