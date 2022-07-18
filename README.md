@@ -9,7 +9,6 @@
 ---
 
 **2. reserch** 
-* <a href = "https://arxiv.org/pdf/2106.05234.pdf"> Do Transformers Really Perform Bad for Graph Representation? </a>
 ---
 
 **3. Aggregate architecture**
