@@ -23,7 +23,7 @@
 * <a href = "https://arxiv.org/pdf/1710.10903.pdf"> Graph Attention Networks - GAT</a> :: <a href = "https://melon-buffer-f27.notion.site/Graph-Attention-Networks-59c1ce15b51440a8b057edb2e2aa2189"> [ paper_review ] </a> 
 * <a href = "https://arxiv.org/pdf/1903.07293.pdf"> Heterogeneous Graph Attention Network - HGAT </a>
 * <a href = "https://arxiv.org/pdf/1911.06455.pdf"> Graph Transformer Networks - GTN </a>
-* <a href = "https://arxiv.org/pdf/2104.00272v2.pdf"> Do Transformer Really Perform Bad for Graph Representation - Graphormer </a>
+* <a href = "https://openreview.net/pdf?id=OeWooOxFwDa"> Do Transformer Really Perform Bad for Graph Representation - Graphormer </a>
 ---
 
 **4.1 Application : Text**
