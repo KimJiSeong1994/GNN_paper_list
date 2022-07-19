@@ -9,6 +9,7 @@
 ---
 
 **2. reserch** 
+
 ---
 
 **3. Aggregate architecture**
