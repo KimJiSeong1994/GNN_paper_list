@@ -8,11 +8,7 @@
 * <a href = "https://arxiv.org/pdf/2205.12454.pdf"> Recipe for a General, Powerful, Scalable Graph Transformer </a>
 ---
 
-**2. reserch** 
-
----
-
-**3. Aggregate architecture**
+**2. Aggregate architecture**
 * <a href = "https://arxiv.org/pdf/1609.02907.pdf"> Semi-Supervised Classification with Graph Convolutional Networks - GCN </a> :: <a href = "https://melon-buffer-f27.notion.site/Semi-supervised-Classification-with-Graph-Convolutional-Networks-06320f5d92c04f418dcefd1fecedba68"> [ paper_review ] </a>
 * <a href = "https://arxiv.org/pdf/1511.05493.pdf"> Gated Graph Sequence Neural Networks - GGNN </a>
 * <a href = "https://arxiv.org/pdf/1706.02216.pdf"> Inductive Representation Learning on Large Graphs - GraphSAGE </a>
@@ -23,24 +19,24 @@
 * <a href = "https://arxiv.org/pdf/1710.10903.pdf"> Graph Attention Networks - GAT</a> :: <a href = "https://melon-buffer-f27.notion.site/Graph-Attention-Networks-59c1ce15b51440a8b057edb2e2aa2189"> [ paper_review ] </a> 
 * <a href = "https://arxiv.org/pdf/1903.07293.pdf"> Heterogeneous Graph Attention Network - HGAT </a>
 * <a href = "https://arxiv.org/pdf/1911.06455.pdf"> Graph Transformer Networks - GTN </a>
-* <a href = "https://openreview.net/pdf?id=OeWooOxFwDa"> Do Transformer Really Perform Bad for Graph Representation - Graphormer </a>
+* <a href = "https://openreview.net/pdf?id=OeWooOxFwDa"> Do Transformer Really Perform Bad for Graph Representation - Graphormer :: <a href = "https://melon-buffer-f27.notion.site/Do-Transformers-Really-Perform-Bad-for-Graph-Representation-Graphormer-c2284d3d653945aa800898c7b3fdb8b6"> [ paper_review] </a>
 ---
 
-**4.1 Application : Text**
+**3.1 Application : Text**
 * <a href = "https://arxiv.org/pdf/1809.05679.pdf"> Graph Convoultional Networks for Text Classification </a>
 ---
 
-**4.2 Application : Recommendation System**
+**3.2 Application : Recommendation System**
 * <a href = "https://arxiv.org/pdf/1806.01973.pdf"> Graph Convolutional Neural Networks for Web-Scale Recommender Systems - PinSAGE </a>
 * <a href = "https://arxiv.org/pdf/1806.01973.pdf"> Graph Convolutional Neural Networks for Web-Scale Recommender Systems </a>
 * <a href = "https://arxiv.org/pdf/1902.07243.pdf"> Graph Neural Networks for Social Recommendation </a>
 ---
 
-**4.3 Application : Image**
+**3.3 Application : Image**
 * <a href = "https://arxiv.org/pdf/2008.02457.pdf"> Graph Convolutional Networks for Hyperspectral Image Classification - miniGCN </a> :: <a href = "https://melon-buffer-f27.notion.site/Graph-Convoluional-Networks-for-Hyperspectral-Image-Classification-c00146a71d7e4646871617b31ec6b31d"> [ paper_review ] </a>
 ---
 
-**4.4 Application : GIS**
+**3.4 Application : GIS**
 * <a href = "https://towardsdatascience.com/graphgps-navigating-graph-transformers-c2cc223a051c"> GraphGPS: Navigating Graph Transformers </a>
 
 ---
