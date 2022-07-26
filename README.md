@@ -24,6 +24,7 @@
 
 **3.1 Application : Text**
 * <a href = "https://arxiv.org/pdf/1809.05679.pdf"> Graph Convoultional Networks for Text Classification </a>
+* <a href = "https://aclanthology.org/K17-1045.pdf"> Graph-based Neural Multi-Document Summarization </a>
 ---
 
 **3.2 Application : Recommendation System**
