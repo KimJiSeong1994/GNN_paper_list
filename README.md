@@ -20,6 +20,8 @@
 * <a href = "https://arxiv.org/pdf/1903.07293.pdf"> Heterogeneous Graph Attention Network - HGAT </a>
 * <a href = "https://arxiv.org/pdf/1911.06455.pdf"> Graph Transformer Networks - GTN </a>
 * <a href = "https://openreview.net/pdf?id=OeWooOxFwDa"> Do Transformer Really Perform Bad for Graph Representation - Graphormer :: <a href = "https://melon-buffer-f27.notion.site/Do-Transformers-Really-Perform-Bad-for-Graph-Representation-Graphormer-c2284d3d653945aa800898c7b3fdb8b6"> [ paper_review ] </a>
+* <a href = "https://arxiv.org/pdf/1903.07293.pdf"> Heterogeneous Graph Attention Network </a>
+
 ---
 
 **3.1 Application : Text**
