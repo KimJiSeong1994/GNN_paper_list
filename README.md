@@ -5,7 +5,7 @@
 * <a href = "https://arxiv.org/pdf/1709.07604.pdf?ref=https://githubhelp.com">A Comprehensive Survey of Graph Embedding - Problems, Techniques and Applications </a>
 * <a href = "https://reader.elsevier.com/reader/sd/pii/S2666651021000012?token=16C2A9332AE81F4D54098EEE79D8535A40695603E95EDA396E895AA03C704FB54F1C28DA614FF06943FA85AEBB7F8603&originRegion=us-east-1&originCreation=20220330071910"> Graph neural networks: A review of methods and applications </a>
 * <a href = "https://arxiv.org/pdf/2109.12843.pdf"> Graph Neural Netwokrs for Recommender Systems : Challenges, Methods, and Directions </a>
-* <a href = "https://arxiv.org/pdf/2205.12454.pdf"> Recipe for a General, Powerful, Scalable Graph Transformer </a>
+* <a href = "https://arxiv.org/pdf/2205.12454.pdf"> Recipe for a General, Powerful, Scalable Graph Transformer</a>
 ---
 
 **2. Aggregate architecture**
