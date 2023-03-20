@@ -41,4 +41,5 @@
 **3.4 Application : SNA**
 * <a href = "https://www.frontiersin.org/articles/10.3389/fdata.2019.00002/full"> deep representation learning for social network analysis</a>
 
+
 ---
