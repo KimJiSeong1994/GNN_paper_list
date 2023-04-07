@@ -22,7 +22,6 @@
 * <a href = "https://arxiv.org/abs/1710.09599"> Watch Your Step: Learning Node Embeddings via Graph Attention </a>
 
 ---
-
 **3.1 Application : Text**
 * <a href = "https://arxiv.org/pdf/1809.05679.pdf"> Graph Convoultional Networks for Text Classification </a>
 * <a href = "https://aclanthology.org/K17-1045.pdf"> Graph-based Neural Multi-Document Summarization </a>
