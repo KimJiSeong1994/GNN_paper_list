@@ -7,7 +7,6 @@
 * <a href = "https://arxiv.org/pdf/2109.12843.pdf"> Graph Neural Netwokrs for Recommender Systems : Challenges, Methods, and Directions </a>
 * <a href = "https://arxiv.org/pdf/2205.12454.pdf"> Recipe for a General, Powerful, Scalable Graph Transformer </a>
 ---
-
 **2. Aggregate architecture** 
 * <a href = "https://arxiv.org/pdf/1403.6652.pdf"> DeepWalk - Online Learning of Social Representations </a>
 * <a href = "https://arxiv.org/pdf/1609.02907.pdf"> Semi-Supervised Classification with Graph Convolutional Networks - GCN </a> :: <a href = "https://melon-buffer-f27.notion.site/Semi-supervised-Classification-with-Graph-Convolutional-Networks-06320f5d92c04f418dcefd1fecedba68"> [ paper_review ] </a>
