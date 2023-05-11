@@ -28,6 +28,7 @@
 * <a href = "https://arxiv.org/pdf/1809.05679.pdf"> Graph Convoultional Networks for Text Classification </a>
 * <a href = "https://aclanthology.org/K17-1045.pdf"> Graph-based Neural Multi-Document Summarization </a>
 ---
+
 **3.2 Application : Recommendation System**
 * <a href = "https://arxiv.org/pdf/1806.01973.pdf"> Graph Convolutional Neural Networks for Web-Scale Recommender Systems - PinSAGE </a>
 * <a href = "https://arxiv.org/pdf/1902.07243.pdf"> Graph Neural Networks for Social Recommendation </a>
