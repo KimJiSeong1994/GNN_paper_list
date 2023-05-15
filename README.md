@@ -9,7 +9,8 @@
 ---
 
 **2. Aggregate architecture** 
-* <a href = "https://arxiv.org/pdf/1403.6652.pdf"> DeepWalk - Online Learning of Social Representations </a>
+* <a href = "https://arxiv.org/pdf/1403.6652.pdf"> DeepWalk - Online Learning of Social Representations </a> :: <a href = "https://melon-buffer-f27.notion.site/DeeWalk-Onlie-Learning-of-Social-Representations-eecf671ad29145c39dff869323114335"> [ paper_review ] </a>
+* <a href = "https://arxiv.org/pdf/1607.00653.pdf"> node2vec: Scalable Feature Learning for Networks </a>
 * <a href = "https://arxiv.org/pdf/1609.02907.pdf"> Semi-Supervised Classification with Graph Convolutional Networks - GCN </a> :: <a href = "https://melon-buffer-f27.notion.site/Semi-supervised-Classification-with-Graph-Convolutional-Networks-06320f5d92c04f418dcefd1fecedba68"> [ paper_review ] </a>
 * <a href = "https://arxiv.org/pdf/1511.05493.pdf"> Gated Graph Sequence Neural Networks - GGNN </a>
 * <a href = "https://arxiv.org/pdf/1706.02216.pdf"> Inductive Representation Learning on Large Graphs - GraphSAGE </a>
