@@ -42,3 +42,6 @@
 **3.4 Application : SNA**
 * <a href = "https://www.frontiersin.org/articles/10.3389/fdata.2019.00002/full"> deep representation learning for social network analysis</a>
 ---
+  
+**3.5 Application : GIS**  
+* <a href = "https://ojs.aaai.org/index.php/AAAI/article/view/3841"> Deep Hierarchical Graph Convolution for Election Prediction from Geospatial Census Data </a>
