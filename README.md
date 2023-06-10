@@ -12,7 +12,7 @@
 * <a href = "https://arxiv.org/pdf/1403.6652.pdf"> DeepWalk - Online Learning of Social Representations </a> :: <a href = "https://melon-buffer-f27.notion.site/DeeWalk-Onlie-Learning-of-Social-Representations-eecf671ad29145c39dff869323114335"> [ paper_review ] </a>
 * <a href = "https://arxiv.org/pdf/1607.00653.pdf"> node2vec: Scalable Feature Learning for Networks </a> :: <a href = "https://melon-buffer-f27.notion.site/Node2Vec-Scalable-Feautre-Learning-for-Networks-97d414518f674c92adf8b7f2b432e717"> [ paper_review ] </a>
 * <a href = "https://arxiv.org/pdf/1609.02907.pdf"> Semi-Supervised Classification with Graph Convolutional Networks - GCN </a> :: <a href = "https://melon-buffer-f27.notion.site/Semi-supervised-Classification-with-Graph-Convolutional-Networks-06320f5d92c04f418dcefd1fecedba68"> [ paper_review ] </a>
-* <a href = "https://arxiv.org/pdf/1801.03226.pdf"> Adaptive Graph Convolutional Neural Networks - AGCN </a> :: <a href = "https://www.notion.so/Adaptive-Graph-Convolutional-Neural-Networks-AGCN-de355b6c34cc4577bdd7d9f7d959c71d?pvs=4"> [ paper_review ] </a>
+* <a href = "https://arxiv.org/pdf/1801.03226.pdf"> Adaptive Graph Convolutional Neural Networks - AGCN </a> 
 * <a href = "https://arxiv.org/pdf/1511.05493.pdf"> Gated Graph Sequence Neural Networks - GGNN </a>
 * <a href = "https://arxiv.org/pdf/1706.02216.pdf"> Inductive Representation Learning on Large Graphs - GraphSAGE </a> :: <a href = "https://www.notion.so/Inductive-Representation-Learning-on-Large-Graphs-GraphSAGE-f7df3e970b524cbeb024a78595d1e98e?pvs=4"> [ paper_review ] </a>
 * <a href = "https://arxiv.org/pdf/1911.03082.pdf?ref=https://githubhelp.com"> Composition-based multi-relational graph convolutional networks - CompGCN </a>
@@ -31,17 +31,17 @@
 * <a href = "https://aclanthology.org/K17-1045.pdf"> Graph-based Neural Multi-Document Summarization </a>
 ---
 
-**3.2 Application : Recommendation System**
+**3.2 Application : XAI** 
+* <a href = "https://arxiv.org/pdf/1903.03894.pdf"> GNNExplainer : Generating Explanations for Graph Neural Networks - GNNExplainer </a> :: <a href = "https://www.notion.so/Adaptive-Graph-Convolutional-Neural-Networks-AGCN-de355b6c34cc4577bdd7d9f7d959c71d?pvs=4"> [ paper_review ] </a> 
+---
+  
+**3.3 Application : Recommendation System**
 * <a href = "https://arxiv.org/pdf/1806.01973.pdf"> Graph Convolutional Neural Networks for Web-Scale Recommender Systems - PinSAGE </a>
 * <a href = "https://arxiv.org/pdf/1902.07243.pdf"> Graph Neural Networks for Social Recommendation </a>
 ---
 
-**3.3 Application : Image**
+**3.4 Application : Image**
 * <a href = "https://arxiv.org/pdf/2008.02457.pdf"> Graph Convolutional Networks for Hyperspectral Image Classification - miniGCN </a> :: <a href = "https://melon-buffer-f27.notion.site/Graph-Convoluional-Networks-for-Hyperspectral-Image-Classification-c00146a71d7e4646871617b31ec6b31d"> [ paper_review ] </a>
----
-
-**3.4 Application : SNA**
-* <a href = "https://www.frontiersin.org/articles/10.3389/fdata.2019.00002/full"> deep representation learning for social network analysis</a>
 ---
   
 **3.5 Application : GIS**  
