@@ -15,7 +15,7 @@
 * <a href = "https://arxiv.org/pdf/1609.02907.pdf"> Semi-Supervised Classification with Graph Convolutional Networks - GCN </a> :: <a href = "https://melon-buffer-f27.notion.site/Semi-supervised-Classification-with-Graph-Convolutional-Networks-06320f5d92c04f418dcefd1fecedba68"> [ paper_review ] </a>
 * <a href = "https://arxiv.org/pdf/1801.03226.pdf"> Adaptive Graph Convolutional Neural Networks - AGCN </a> 
 * <a href = "https://arxiv.org/pdf/1511.05493.pdf"> Gated Graph Sequence Neural Networks - GGNN </a>
-* <a href = "https://arxiv.org/pdf/1706.02216.pdf"> Inductive Representation Learning on Large Graphs - GraphSAGE </a> :: <a href = "https://www.notion.so/Inductive-Representation-Learning-on-Large-Graphs-GraphSAGE-f7df3e970b524cbeb024a78595d1e98e?pvs=4"> [ paper_review ] </a>
+* <a href = "https://arxiv.org/pdf/1706.02216.pdf"> Inductive Representation Learning on Large Graphs - GraphSAGE </a> :: <a href = https://www.notion.so/Inductive-Representation-Learning-on-Large-Graphs-GraphSAGE-905e95556aa248d68cfee086a3ecebfd?pvs=4""> [ paper_review ] </a>
 * <a href = "https://arxiv.org/pdf/1911.03082.pdf?ref=https://githubhelp.com"> Composition-based multi-relational graph convolutional networks - CompGCN </a>
 * <a href = "https://ieeexplore.ieee.org/document/9207639"> GCN-LRP explanation: exploring latent attention of graph convolutional networks </a>
 * <a href = "https://arxiv.org/pdf/1703.06103.pdf"> Modeling Relational Data with Graph Convolutional Networks - RGCN </a>
