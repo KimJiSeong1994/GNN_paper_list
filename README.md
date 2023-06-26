@@ -25,26 +25,31 @@
 * <a href = "https://openreview.net/pdf?id=OeWooOxFwDa"> Do Transformer Really Perform Bad for Graph Representation - Graphormer :: <a href = "https://melon-buffer-f27.notion.site/Do-Transformers-Really-Perform-Bad-for-Graph-Representation-Graphormer-c2284d3d653945aa800898c7b3fdb8b6"> [ paper_review ] </a>
 * <a href = "https://arxiv.org/abs/1710.09599"> Watch Your Step: Learning Node Embeddings via Graph Attention </a>
 ---
+**3. Graph Pooling**
+* <a href = "https://arxiv.org/pdf/1905.05178.pdf"> Graph U-Nets </a>
+* <a href = "https://arxiv.org/pdf/1806.08804.pdf"> Hierarchical Graph Representation Learning with Differentiable Pooling </a>
+* <a href = "https://arxiv.org/pdf/1904.13107.pdf"> Graph Convolutional Networks with EigenPooling </a>
+---
 
-**3.1 Application : Text**
+**4.1 Application : Text**
 * <a href = "https://arxiv.org/pdf/1809.05679.pdf"> Graph Convoultional Networks for Text Classification </a>
 * <a href = "https://aclanthology.org/K17-1045.pdf"> Graph-based Neural Multi-Document Summarization </a>
 ---
 
-**3.2 Application : XAI** 
+**4.2 Application : XAI** 
 * <a href = "https://arxiv.org/pdf/1903.03894.pdf"> GNNExplainer : Generating Explanations for Graph Neural Networks </a> :: <a href = "https://www.notion.so/Adaptive-Graph-Convolutional-Neural-Networks-AGCN-de355b6c34cc4577bdd7d9f7d959c71d?pvs=4"> [ paper_review ] </a>
 * <a href = "https://ieeexplore.ieee.org/document/9207639"> GCN-LRP explanation: exploring latent attention of graph convolutional networks </a>
 ---
 
-**3.3 Application : Recommendation System**
+**4.3 Application : Recommendation System**
 * <a href = "https://arxiv.org/pdf/1806.01973.pdf"> Graph Convolutional Neural Networks for Web-Scale Recommender Systems - PinSAGE </a>
 * <a href = "https://arxiv.org/pdf/1902.07243.pdf"> Graph Neural Networks for Social Recommendation </a>
 ---
 
-**3.4 Application : Image**
+**4.4 Application : Image**
 * <a href = "https://arxiv.org/pdf/2008.02457.pdf"> Graph Convolutional Networks for Hyperspectral Image Classification - miniGCN </a> :: <a href = "https://melon-buffer-f27.notion.site/Graph-Convoluional-Networks-for-Hyperspectral-Image-Classification-c00146a71d7e4646871617b31ec6b31d"> [ paper_review ] </a>
 ---
   
-**3.5 Application : GIS**  
+**4.5 Application : GIS**  
 * <a href = "https://ojs.aaai.org/index.php/AAAI/article/view/3841"> Deep Hierarchical Graph Convolution for Election Prediction from Geospatial Census Data </a>
 ---
