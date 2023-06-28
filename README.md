@@ -30,6 +30,7 @@
 * <a href = "https://arxiv.org/pdf/1806.08804.pdf"> Hierarchical Graph Representation Learning with Differentiable Pooling </a>
 * <a href = "https://arxiv.org/pdf/1904.13107.pdf"> Graph Convolutional Networks with EigenPooling </a>
 * <a href = "https://arxiv.org/pdf/1904.08082.pdf"> Self-Attention Graph Pooling </a>
+* <a href = "https://arxiv.org/pdf/2012.08734.pdf"> Hierarchical Graph Capsule Network </a>
 ---
 
 **4.1 Application : Text**
