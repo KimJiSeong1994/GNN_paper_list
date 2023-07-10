@@ -14,7 +14,8 @@
 * <a href = "https://arxiv.org/pdf/1607.00653.pdf"> node2vec: Scalable Feature Learning for Networks </a> :: <a href = "https://melon-buffer-f27.notion.site/Node2Vec-Scalable-Feautre-Learning-for-Networks-97d414518f674c92adf8b7f2b432e717"> [ paper_review ] </a>
 * <a href = "https://www.kdd.org/kdd2016/papers/files/rfp0191-wangAemb.pdf"> Structural Deep Network Embedding : SDNE </a> :: <a href = "https://www.notion.so/Structural-Deep-Network-Embedding-SDNE-181c5c19b4e94eb680416e857f69c038?pvs=4"> [ paper review ] </a>
 * <a href = "https://arxiv.org/pdf/1609.02907.pdf"> Semi-Supervised Classification with Graph Convolutional Networks - GCN </a> :: <a href = "https://melon-buffer-f27.notion.site/Semi-supervised-Classification-with-Graph-Convolutional-Networks-06320f5d92c04f418dcefd1fecedba68"> [ paper_review ] </a>
-* <a href = "https://arxiv.org/pdf/1801.03226.pdf"> Adaptive Graph Convolutional Neural Networks - AGCN </a> 
+* <a href = "https://arxiv.org/pdf/1801.03226.pdf"> Adaptive Graph Convolutional Neural Networks - AGCN </a>
+* <a href = "https://arxiv.org/pdf/1904.03751.pdf"> DeepGCNs: Can GCNs Go as Deep as CNNs? - DeepGCN </a>
 * <a href = "https://arxiv.org/pdf/1511.05493.pdf"> Gated Graph Sequence Neural Networks - GGNN </a>
 * <a href = "https://arxiv.org/pdf/1706.02216.pdf"> Inductive Representation Learning on Large Graphs - GraphSAGE </a> :: <a href = "https://www.notion.so/Inductive-Representation-Learning-on-Large-Graphs-GraphSAGE-905e95556aa248d68cfee086a3ecebfd?pvs=4"> [ paper_review ] </a>
 * <a href = "https://arxiv.org/pdf/1911.03082.pdf?ref=https://githubhelp.com"> Composition-based multi-relational graph convolutional networks - CompGCN </a>
