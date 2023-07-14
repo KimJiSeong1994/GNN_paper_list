@@ -35,26 +35,30 @@
 * <a href = "https://arxiv.org/pdf/1904.08082.pdf"> Self-Attention Graph Pooling </a>
 * <a href = "https://arxiv.org/pdf/2012.08734.pdf"> Hierarchical Graph Capsule Network </a>
 ---
+**4. Community Detection** 
+* <a href = "https://ojs.aaai.org/index.php/AAAI/article/view/3780"> Graph Convolutional Networks Meet Markov Random Fields: Semi-Supervised Community Detection in Attribute Networks </a>
 
-**4.1 Application : Text**
+---
+
+**5.1 Application : Text**
 * <a href = "https://arxiv.org/pdf/1809.05679.pdf"> Graph Convoultional Networks for Text Classification </a>
 * <a href = "https://aclanthology.org/K17-1045.pdf"> Graph-based Neural Multi-Document Summarization </a>
 ---
 
-**4.2 Application : XAI** 
+**5.2 Application : XAI** 
 * <a href = "https://arxiv.org/pdf/1903.03894.pdf"> GNNExplainer : Generating Explanations for Graph Neural Networks </a> :: <a href = "https://www.notion.so/Adaptive-Graph-Convolutional-Neural-Networks-AGCN-de355b6c34cc4577bdd7d9f7d959c71d?pvs=4"> [ paper_review ] </a>
 * <a href = "https://ieeexplore.ieee.org/document/9207639"> GCN-LRP explanation: exploring latent attention of graph convolutional networks </a>
 ---
 
-**4.3 Application : Recommendation System**
+**5.3 Application : Recommendation System**
 * <a href = "https://arxiv.org/pdf/1806.01973.pdf"> Graph Convolutional Neural Networks for Web-Scale Recommender Systems - PinSAGE </a>
 * <a href = "https://arxiv.org/pdf/1902.07243.pdf"> Graph Neural Networks for Social Recommendation </a>
 ---
 
-**4.4 Application : Image**
+**5.4 Application : Image**
 * <a href = "https://arxiv.org/pdf/2008.02457.pdf"> Graph Convolutional Networks for Hyperspectral Image Classification - miniGCN </a> :: <a href = "https://melon-buffer-f27.notion.site/Graph-Convoluional-Networks-for-Hyperspectral-Image-Classification-c00146a71d7e4646871617b31ec6b31d"> [ paper_review ] </a>
 ---
   
-**4.5 Application : GIS**  
+**5.5 Application : GIS**  
 * <a href = "https://ojs.aaai.org/index.php/AAAI/article/view/3841"> Deep Hierarchical Graph Convolution for Election Prediction from Geospatial Census Data </a>
 ---
