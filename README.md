@@ -40,7 +40,11 @@
 * <a href = "https://ojs.aaai.org/index.php/AAAI/article/view/3780"> Graph Convolutional Networks Meet Markov Random Fields: Semi-Supervised Community Detection in Attribute Networks </a>
 
 ---
+***5.Knowledge Graph**
+* <a href = "https://proceedings.neurips.cc/paper/2013/file/1cecc7a77928ca8133fa24680a88d2f9-Paper.pdf"> Translating Embeddings for Modeling Multi-relational Data </a>
+* <a href = "https://linyankai.github.io/publications/aaai2015_transr.pdf"> Learning Entity and Relation Embeddings for Knowledge Graph Completion </a>
 
+---
 **5.1 Application : Text**
 * <a href = "https://arxiv.org/pdf/1809.05679.pdf"> Graph Convoultional Networks for Text Classification </a>
 * <a href = "https://aclanthology.org/K17-1045.pdf"> Graph-based Neural Multi-Document Summarization </a>
