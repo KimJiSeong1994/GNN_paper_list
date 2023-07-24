@@ -31,6 +31,7 @@
 * <a href = "https://arxiv.org/abs/1710.09599"> Watch Your Step: Learning Node Embeddings via Graph Attention </a>
 * <a href = "https://arxiv.org/pdf/1909.11855.pdf"> Universal Graph Transformer Self-Attention Networks </a>
 ---
+
 **3. Graph Pooling**
 * <a href = "https://arxiv.org/pdf/1905.05178.pdf"> Graph U-Nets </a>
 * <a href = "https://arxiv.org/pdf/1806.08804.pdf"> Hierarchical Graph Representation Learning with Differentiable Pooling </a>
@@ -38,6 +39,7 @@
 * <a href = "https://arxiv.org/pdf/1904.08082.pdf"> Self-Attention Graph Pooling </a>
 * <a href = "https://arxiv.org/pdf/2012.08734.pdf"> Hierarchical Graph Capsule Network </a>
 ---
+
 **4. Community Detection** 
 * <a href = "https://ojs.aaai.org/index.php/AAAI/article/view/3780"> Graph Convolutional Networks Meet Markov Random Fields: Semi-Supervised Community Detection in Attribute Networks </a>
 
