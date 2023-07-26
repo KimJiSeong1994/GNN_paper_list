@@ -62,6 +62,7 @@
 **6.3 Application : Recommendation System**
 * <a href = "https://arxiv.org/pdf/1806.01973.pdf"> Graph Convolutional Neural Networks for Web-Scale Recommender Systems - PinSAGE </a>
 * <a href = "https://arxiv.org/pdf/1902.07243.pdf"> Graph Neural Networks for Social Recommendation </a>
+* <a href = "https://arxiv.org/pdf/2307.02759.pdf"> Knowledge Graph Self-Supervised Rationalization for Recommendation </a>
 ---
 
 **6.4 Application : Image**
