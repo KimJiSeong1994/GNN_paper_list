@@ -53,12 +53,10 @@
 * <a href = "https://arxiv.org/pdf/1809.05679.pdf"> Graph Convoultional Networks for Text Classification </a>
 * <a href = "https://aclanthology.org/K17-1045.pdf"> Graph-based Neural Multi-Document Summarization </a>
 ---
-
 **6.2 Application : XAI** 
 * <a href = "https://arxiv.org/pdf/1903.03894.pdf"> GNNExplainer : Generating Explanations for Graph Neural Networks </a> :: <a href = "https://www.notion.so/Adaptive-Graph-Convolutional-Neural-Networks-AGCN-de355b6c34cc4577bdd7d9f7d959c71d?pvs=4"> [ paper_review ] </a>
 * <a href = "https://ieeexplore.ieee.org/document/9207639"> GCN-LRP explanation: exploring latent attention of graph convolutional networks </a>
 ---
-
 **6.3 Application : Recommendation System**
 * <a href = "https://arxiv.org/pdf/1806.01973.pdf"> Graph Convolutional Neural Networks for Web-Scale Recommender Systems - PinSAGE </a>
 * <a href = "https://arxiv.org/pdf/1902.07243.pdf"> Graph Neural Networks for Social Recommendation </a>
