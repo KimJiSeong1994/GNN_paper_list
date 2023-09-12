@@ -76,6 +76,7 @@
 * <a href = "https://arxiv.org/pdf/2008.02457.pdf"> Graph Convolutional Networks for Hyperspectral Image Classification - miniGCN </a> :: <a href = "https://melon-buffer-f27.notion.site/Graph-Convoluional-Networks-for-Hyperspectral-Image-Classification-c00146a71d7e4646871617b31ec6b31d"> [ paper_review ] </a>
 ---
   
-**6.5 Application : GIS**  
+**6.5 Application : Geometry**  
 * <a href = "https://ojs.aaai.org/index.php/AAAI/article/view/3841"> Deep Hierarchical Graph Convolution for Election Prediction from Geospatial Census Data </a>
+* <a href = "https://www.sciencedirect.com/science/article/abs/pii/S0924271622001988"> Spatial context-aware method for urban land use classification using street view images </a>
 ---
