@@ -23,17 +23,15 @@
 * <a href = "https://arxiv.org/pdf/2002.05287.pdf"> GEOM-GCN: Geometric Graph Convolutional networks </a>
 * <a href = "https://arxiv.org/pdf/1706.02263.pdf"> Graph Convolutional Matrix Completion </a>
 * <a href = "https://arxiv.org/pdf/2006.09963.pdf"> GCC: Graph Contrastive Coding for Graph Neural Network Pre-Training </a>
-
 * <a href = "https://arxiv.org/pdf/1511.05493.pdf"> Gated Graph Sequence Neural Networks - GGNN </a>
 * <a href = "https://arxiv.org/pdf/1706.02216.pdf"> Inductive Representation Learning on Large Graphs - GraphSAGE </a> :: <a href = "https://www.notion.so/Inductive-Representation-Learning-on-Large-Graphs-GraphSAGE-905e95556aa248d68cfee086a3ecebfd?pvs=4"> [ paper_review ] </a>
 * <a href = "https://arxiv.org/pdf/1911.03082.pdf?ref=https://githubhelp.com"> Composition-based multi-relational graph convolutional networks - CompGCN </a>
 * <a href = "https://arxiv.org/pdf/1703.06103.pdf"> Modeling Relational Data with Graph Convolutional Networks - RGCN </a>
-
-
 * <a href = "https://arxiv.org/pdf/1710.10903.pdf"> Graph Attention Networks - GAT</a> :: <a href = "https://melon-buffer-f27.notion.site/Graph-Attention-Networks-59c1ce15b51440a8b057edb2e2aa2189"> [ paper_review ] </a> 
 * <a href = "https://arxiv.org/pdf/1903.07293.pdf"> Heterogeneous Graph Attention Network - HGAT </a>
 * <a href = "https://arxiv.org/pdf/1911.05954.pdf"> Hierarchical Graph Pooling with Structure Learning - HGP-SL </a>
 * <a href = "https://arxiv.org/pdf/1911.06455.pdf"> Graph Transformer Networks - GTN </a>
+* <a href = "https://arxiv.org/abs/2003.01332"> Heterogeneous Graph Transformer </a>
 * <a href = "https://openreview.net/pdf?id=OeWooOxFwDa"> Do Transformer Really Perform Bad for Graph Representation - Graphormer :: <a href = "https://melon-buffer-f27.notion.site/Do-Transformers-Really-Perform-Bad-for-Graph-Representation-Graphormer-c2284d3d653945aa800898c7b3fdb8b6"> [ paper_review ] </a>
 * <a href = "https://arxiv.org/abs/1710.09599"> Watch Your Step: Learning Node Embeddings via Graph Attention </a>
 * <a href = "https://arxiv.org/pdf/1909.11855.pdf"> Universal Graph Transformer Self-Attention Networks </a>
