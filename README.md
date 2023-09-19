@@ -76,5 +76,5 @@
   
 **6.5 Application : Geometry**  
 * <a href = "https://ojs.aaai.org/index.php/AAAI/article/view/3841"> Deep Hierarchical Graph Convolution for Election Prediction from Geospatial Census Data </a>
-* <a href = "https://www.sciencedirect.com/science/article/abs/pii/S0924271622001988"> Spatial context-aware method for urban land use classification using street view images </a>
+* <a href = "https://www.sciencedirect.com/science/article/abs/pii/S0924271622001988"> Spatial context-aware method for urban land use classification using street view images </a> :: <a href = "https://www.notion.so/Spatial-context-aware-method-for-urban-land-use-classification-using-street-view-images-SC-GCN-acea5f004cd641b0bf2bc9cc7f992394?pvs=4"> [ paper_review ] </a>
 ---
