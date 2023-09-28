@@ -28,6 +28,8 @@
 * <a href = "https://arxiv.org/pdf/1911.03082.pdf?ref=https://githubhelp.com"> Composition-based multi-relational graph convolutional networks - CompGCN </a>
 * <a href = "https://arxiv.org/pdf/1703.06103.pdf"> Modeling Relational Data with Graph Convolutional Networks - RGCN </a>
 * <a href = "https://arxiv.org/pdf/1710.10903.pdf"> Graph Attention Networks - GAT</a> :: <a href = "https://melon-buffer-f27.notion.site/Graph-Attention-Networks-59c1ce15b51440a8b057edb2e2aa2189"> [ paper_review ] </a> 
+
+* <a href = "https://dl.acm.org/doi/pdf/10.1145/3292500.3330961"> Heterogeneous Graph Neural Network </a>
 * <a href = "https://arxiv.org/pdf/1903.07293.pdf"> Heterogeneous Graph Attention Network - HGAT </a>
 * <a href = "https://arxiv.org/pdf/1911.05954.pdf"> Hierarchical Graph Pooling with Structure Learning - HGP-SL </a>
 * <a href = "https://arxiv.org/pdf/1911.06455.pdf"> Graph Transformer Networks - GTN </a>
