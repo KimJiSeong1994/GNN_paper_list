@@ -8,6 +8,7 @@
 * <a href = "https://arxiv.org/pdf/2205.12454.pdf"> Recipe for a General, Powerful, Scalable Graph Transformer </a>
 * <a href = "https://arxiv.org/pdf/2301.08210.pdf"> Everything is Connected: Graph Neural Networks </a>
 * <a href = "https://arxiv.org/pdf/2011.14867.pdf"> A Survey on Heterogeneous Graph Embedding : Methods, Techniques, Applications and Sources </a>
+* <a href = 'https://arxiv.org/pdf/0906.0612.pdf%EF%BC%89%E3%80%82'> Community detection in graphs </a>
 ---
 
 **2. Aggregate architecture** 
