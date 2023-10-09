@@ -57,7 +57,7 @@
 * <a href = "https://linyankai.github.io/publications/aaai2015_transr.pdf"> Learning Entity and Relation Embeddings for Knowledge Graph Completion </a>
 ---
 
-**6 Application **
+**6. Application**
 * <a href = "https://arxiv.org/pdf/1809.05679.pdf"> Graph Convoultional Networks for Text Classification </a>
 * <a href = "https://aclanthology.org/K17-1045.pdf"> Graph-based Neural Multi-Document Summarization </a>
 
