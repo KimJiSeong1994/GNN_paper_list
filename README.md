@@ -34,6 +34,7 @@
 * <a href = "https://arxiv.org/pdf/1911.05954.pdf"> Hierarchical Graph Pooling with Structure Learning - HGP-SL </a>
 * <a href = "https://arxiv.org/pdf/1911.06455.pdf"> Graph Transformer Networks - GTN </a>
 * <a href = "https://arxiv.org/abs/2003.01332"> Heterogeneous Graph Transformer </a>
+* <a href = "https://arxiv.org/pdf/2305.17589.pdf"> Graph Inductive Biases in Transformers without Message Passing </a> 
 * <a href = "https://openreview.net/pdf?id=OeWooOxFwDa"> Do Transformer Really Perform Bad for Graph Representation - Graphormer :: <a href = "https://melon-buffer-f27.notion.site/Do-Transformers-Really-Perform-Bad-for-Graph-Representation-Graphormer-c2284d3d653945aa800898c7b3fdb8b6"> [ paper_review ] </a>
 * <a href = "https://arxiv.org/abs/1710.09599"> Watch Your Step: Learning Node Embeddings via Graph Attention </a>
 * <a href = "https://arxiv.org/pdf/1909.11855.pdf"> Universal Graph Transformer Self-Attention Networks </a>
