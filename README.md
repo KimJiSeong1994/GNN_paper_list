@@ -70,3 +70,4 @@
 * <a href = "https://ojs.aaai.org/index.php/AAAI/article/view/3841"> Deep Hierarchical Graph Convolution for Election Prediction from Geospatial Census Data </a>
 * <a href = "https://www.sciencedirect.com/science/article/abs/pii/S0924271622001988"> Spatial context-aware method for urban land use classification using street view images </a> :: <a href = "https://www.notion.so/Spatial-context-aware-method-for-urban-land-use-classification-using-street-view-images-SC-GCN-acea5f004cd641b0bf2bc9cc7f992394?pvs=4"> [ paper_review ] </a>
 * <a href = "https://assets.amazon.science/4c/4f/0fbc52ea470c91edec2c6bb8252d/a-heterogeneous-graph-based-framework-for-scalable-fraud-detection.pdf"> A Heterogeneous Graph-based Framework for Scalable Fraud Detection </a>
+* <a href = "https://arxiv.org/pdf/2303.00995.pdf"> Heterogeneous Graph Contrastive Learning for Recommendation</a>
