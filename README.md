@@ -1,6 +1,6 @@
 # GNN paper list survey 
 
-**1. Survey**
+**1. Survey** 
 * <a href = "https://arxiv.org/pdf/1810.00826.pdf"> How Powerful Graph Neural Networks? </a>
 * <a href = "https://arxiv.org/pdf/1901.00596.pdf?ref=https://githubhelp.com"> A Comprehensive Survey on Graph Neural Networks </a>
 * <a href = "https://arxiv.org/pdf/1709.07604.pdf?ref=https://githubhelp.com">A Comprehensive Survey of Graph Embedding - Problems, Techniques and Applications </a>
