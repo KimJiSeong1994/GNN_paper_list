@@ -30,7 +30,7 @@
 * <a href = "https://arxiv.org/pdf/1703.06103.pdf"> Modeling Relational Data with Graph Convolutional Networks - RGCN </a>
 * <a href = "https://arxiv.org/pdf/1710.10903.pdf"> Graph Attention Networks - GAT</a> :: <a href = "https://melon-buffer-f27.notion.site/Graph-Attention-Networks-59c1ce15b51440a8b057edb2e2aa2189"> [ paper_review ] </a> 
 * <a href = "https://dl.acm.org/doi/pdf/10.1145/3292500.3330961"> Heterogeneous Graph Neural Network - HetGNN </a> :: <a href = "https://melon-buffer-f27.notion.site/Heterogeneous-Graph-Neural-Network-HetGNN-1222245f13b44fb9b17f4fcc8b30782d?pvs=4"> [ paper_review ] </a>
-* <a href = "https://arxiv.org/pdf/1903.07293.pdf"> Heterogeneous Graph Attention Network - HGAT </a>
+* <a href = "https://arxiv.org/pdf/1903.07293.pdf"> Heterogeneous graph Attention Network - HAN </a> </a> :: <a href = "https://www.notion.so/Heterogeneous-Graph-Attention-Network-HAN-8b2d0aab4e9147269fa7516ce46cb34e?pvs=4"> [ paper_review ] </a>
 * <a href = "https://arxiv.org/pdf/1911.05954.pdf"> Hierarchical Graph Pooling with Structure Learning - HGP-SL </a>
 * <a href = "https://arxiv.org/pdf/1911.06455.pdf"> Graph Transformer Networks - GTN </a>
 * <a href = "https://arxiv.org/abs/2003.01332"> Heterogeneous Graph Transformer </a>
