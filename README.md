@@ -38,6 +38,7 @@
 * <a href = "https://openreview.net/pdf?id=OeWooOxFwDa"> Do Transformer Really Perform Bad for Graph Representation - Graphormer :: <a href = "https://melon-buffer-f27.notion.site/Do-Transformers-Really-Perform-Bad-for-Graph-Representation-Graphormer-c2284d3d653945aa800898c7b3fdb8b6"> [ paper_review ] </a>
 * <a href = "https://arxiv.org/abs/1710.09599"> Watch Your Step: Learning Node Embeddings via Graph Attention </a>
 * <a href = "https://arxiv.org/pdf/1909.11855.pdf"> Universal Graph Transformer Self-Attention Networks </a>
+* <a href = 'https://dl.acm.org/doi/pdf/10.1145/3097983.3098036'> metapath2vec: Scalable Representation Learning for Heterogeneous Networks </a> <a href = "https://melon-buffer-f27.notion.site/Do-Transformers-Really-Perform-Bad-for-Graph-Representation-Graphormer-c2284d3d653945aa800898c7b3fdb8b6](https://melon-buffer-f27.notion.site/metapath2vec-Scalable-Representation-Learning-for-Heterogeneous-Networks-cf0ff227e1874f56855fc54ec0f3017f?pvs=4)"> [ paper_review ] </a>
 ---
 
 **3. Graph Pooling**
