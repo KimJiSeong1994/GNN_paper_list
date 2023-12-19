@@ -39,7 +39,8 @@
 * <a href = "https://arxiv.org/abs/1710.09599"> Watch Your Step: Learning Node Embeddings via Graph Attention </a>
 * <a href = "https://arxiv.org/pdf/1909.11855.pdf"> Universal Graph Transformer Self-Attention Networks </a>
 * <a href = 'https://dl.acm.org/doi/pdf/10.1145/3097983.3098036'> metapath2vec: Scalable Representation Learning for Heterogeneous Networks :: </a> <a href = "https://melon-buffer-f27.notion.site/metapath2vec-Scalable-Representation-Learning-for-Heterogeneous-Networks-cf0ff227e1874f56855fc54ec0f3017f?pvs=4"> [ paper_review ] </a>
- * <a href = 'https://arxiv.org/pdf/2305.12322.pdf'> Large Graph Property Prediction via Graph Segment Training </a>
+* <a href = 'https://arxiv.org/pdf/2305.12322.pdf'> Large Graph Property Prediction via Graph Segment Training </a>
+* <a href = 'https://arxiv.org/pdf/2308.13490.pdf'> TpuGraphs : A Performance Prediction Dataset on Large Tensor Computational Graphs </a> 
 ---
 
 **3. Graph Pooling**
