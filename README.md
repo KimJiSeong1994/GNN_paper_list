@@ -75,3 +75,4 @@
 * <a href = "https://assets.amazon.science/4c/4f/0fbc52ea470c91edec2c6bb8252d/a-heterogeneous-graph-based-framework-for-scalable-fraud-detection.pdf"> A Heterogeneous Graph-based Framework for Scalable Fraud Detection </a>
 * <a href = "https://arxiv.org/pdf/2303.00995.pdf"> Heterogeneous Graph Contrastive Learning for Recommendation</a>
 * <a href = 'https://www.mdpi.com/2220-9964/8/9/414'> Incorporating Graph Attention and Recurrent Architectures for City-Wide Taxi Demand Prediction </a>
+* <a href = 'https://arxiv.org/pdf/2401.03134.pdf'> TimeGraphs: Graph-based Temporal Reasoning </a>
