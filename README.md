@@ -49,6 +49,7 @@
 * <a href = "https://arxiv.org/pdf/1904.13107.pdf"> Graph Convolutional Networks with EigenPooling </a>
 * <a href = "https://arxiv.org/pdf/1904.08082.pdf"> Self-Attention Graph Pooling </a>
 * <a href = "https://arxiv.org/pdf/2012.08734.pdf"> Hierarchical Graph Capsule Network </a>
+* <a hrewf = 'https://arxiv.org/pdf/1905.02850.pdf'> Understanding Attention and Generalization in Graph Neural Networks </a>
 ---
 
 **4. Community Detection** 
