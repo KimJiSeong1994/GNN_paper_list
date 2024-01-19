@@ -54,8 +54,9 @@
 
 **4. Temporal Graph Learning**
 * <a href = 'https://arxiv.org/pdf/2310.15978.pdf'> Graph Deep Learning for Time Series Forecasting :: </a> <a href = 'https://gmlg.ch/tutorials/graph-based-processing/gdl4sts_handout.pdf'> [ Slides ] </a>
+* <a href = 'https://arxiv.org/pdf/2310.15865.pdf'> Using Causality-Aware Graph Neural Networks to Predict Temporal Centralities in Dynamic Graphs </a>
 
-
+---
 **5. Community Detection** 
 * <a href = "https://ojs.aaai.org/index.php/AAAI/article/view/3780"> Graph Convolutional Networks Meet Markov Random Fields: Semi-Supervised Community Detection in Attribute Networks </a>
 ---
@@ -63,6 +64,8 @@
 **6.Knowledge Graph**
 * <a href = "https://proceedings.neurips.cc/paper/2013/file/1cecc7a77928ca8133fa24680a88d2f9-Paper.pdf"> Translating Embeddings for Modeling Multi-relational Data </a>
 * <a href = "https://linyankai.github.io/publications/aaai2015_transr.pdf"> Learning Entity and Relation Embeddings for Knowledge Graph Completion </a>
+* <a href = 'https://dl.acm.org/doi/pdf/10.1145/3580305.3599517'> Temporal Dynamics-Aware Adversarial Attacks on Discrete-Time Dynamic Graph Models</a>
+
 ---
 
 **7. Application**
