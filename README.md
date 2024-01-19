@@ -52,16 +52,20 @@
 * <a href = 'https://arxiv.org/pdf/1905.02850.pdf'> Understanding Attention and Generalization in Graph Neural Networks </a>
 ---
 
-**4. Community Detection** 
+**4. Temporal Graph Learning**
+* <a href = 'https://arxiv.org/pdf/2310.15978.pdf'> Graph Deep Learning for Time Series Forecasting :: </a> <a href = 'https://gmlg.ch/tutorials/graph-based-processing/gdl4sts_handout.pdf'> [ Slides ] </a>
+
+
+**5. Community Detection** 
 * <a href = "https://ojs.aaai.org/index.php/AAAI/article/view/3780"> Graph Convolutional Networks Meet Markov Random Fields: Semi-Supervised Community Detection in Attribute Networks </a>
 ---
 
-**5.Knowledge Graph**
+**6.Knowledge Graph**
 * <a href = "https://proceedings.neurips.cc/paper/2013/file/1cecc7a77928ca8133fa24680a88d2f9-Paper.pdf"> Translating Embeddings for Modeling Multi-relational Data </a>
 * <a href = "https://linyankai.github.io/publications/aaai2015_transr.pdf"> Learning Entity and Relation Embeddings for Knowledge Graph Completion </a>
 ---
 
-**6. Application**
+**7. Application**
 * <a href = "https://arxiv.org/pdf/1809.05679.pdf"> Graph Convoultional Networks for Text Classification </a>
 * <a href = "https://aclanthology.org/K17-1045.pdf"> Graph-based Neural Multi-Document Summarization </a>
 * <a href = "https://arxiv.org/pdf/1903.03894.pdf"> GNNExplainer : Generating Explanations for Graph Neural Networks </a> :: <a href = "https://www.notion.so/Adaptive-Graph-Convolutional-Neural-Networks-AGCN-de355b6c34cc4577bdd7d9f7d959c71d?pvs=4"> [ paper_review ] </a>
