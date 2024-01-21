@@ -53,6 +53,7 @@
 ---
 
 **4. Temporal Graph Learning**
+
 * <a href = 'https://arxiv.org/pdf/2310.15978.pdf'> Graph Deep Learning for Time Series Forecasting :: </a> <a href = 'https://gmlg.ch/tutorials/graph-based-processing/gdl4sts_handout.pdf'> [ Slides ] </a>
 * <a href = 'https://arxiv.org/pdf/2310.15865.pdf'> Using Causality-Aware Graph Neural Networks to Predict Temporal Centralities in Dynamic Graphs </a>
 
