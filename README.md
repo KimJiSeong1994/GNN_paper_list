@@ -84,3 +84,4 @@
 * <a href = "https://arxiv.org/pdf/2303.00995.pdf"> Heterogeneous Graph Contrastive Learning for Recommendation</a>
 * <a href = 'https://www.mdpi.com/2220-9964/8/9/414'> Incorporating Graph Attention and Recurrent Architectures for City-Wide Taxi Demand Prediction </a>
 * <a href = 'https://arxiv.org/pdf/2401.03134.pdf'> TimeGraphs: Graph-based Temporal Reasoning </a>
+* <a href = 'https://dl.acm.org/doi/pdf/10.1145/3442381.3449989'> Pick and Choose: A GNN-based Imbalanced Learning Approach for Fraud Detection </a>
