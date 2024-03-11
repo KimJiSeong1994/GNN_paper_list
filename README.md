@@ -67,7 +67,7 @@
 * <a href = "https://proceedings.neurips.cc/paper/2013/file/1cecc7a77928ca8133fa24680a88d2f9-Paper.pdf"> Translating Embeddings for Modeling Multi-relational Data </a>
 * <a href = "https://linyankai.github.io/publications/aaai2015_transr.pdf"> Learning Entity and Relation Embeddings for Knowledge Graph Completion </a>
 * <a href = 'https://dl.acm.org/doi/pdf/10.1145/3580305.3599517'> Temporal Dynamics-Aware Adversarial Attacks on Discrete-Time Dynamic Graph Models</a>
-
+* <a href = 'https://arxiv.org/pdf/2306.08302.pdf'> Unifying Large Language Models and Knowledge Graphs: A Roadmap </a>
 ---
 
 **7. Application**
