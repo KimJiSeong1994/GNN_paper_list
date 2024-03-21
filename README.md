@@ -1,4 +1,5 @@
 # GNN paper list survey
+
 **1. Survey**  
 * <a href = "https://arxiv.org/pdf/1810.00826.pdf"> How Powerful Graph Neural Networks? - GIN :: </a> <a href = 'https://www.notion.so/How-Powerful-are-Graph-Neural-Networks-GIN-5fe02410440045c78c00c71c0ac0cea8?pvs=4'> [ paper_review ]</a>
 * <a href = "https://arxiv.org/pdf/1901.00596.pdf?ref=https://githubhelp.com"> A Comprehensive Survey on Graph Neural Networks </a>
