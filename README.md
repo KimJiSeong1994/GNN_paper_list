@@ -25,6 +25,7 @@
 * <a href = "https://arxiv.org/pdf/2002.05287.pdf"> GEOM-GCN: Geometric Graph Convolutional networks </a>
 * <a href = "https://arxiv.org/pdf/1706.02263.pdf"> Graph Convolutional Matrix Completion </a>
 * <a href = "https://arxiv.org/pdf/2006.09963.pdf"> GCC: Graph Contrastive Coding for Graph Neural Network Pre-Training </a>
+* <a href = 'https://arxiv.org/pdf/1808.03965.pdf'> LGCN: Large-Scale Learnable Graph Convolutional Networks </a>
 * <a href = "https://arxiv.org/pdf/1511.05493.pdf"> Gated Graph Sequence Neural Networks - GGNN </a>
 * <a href = "https://arxiv.org/pdf/1706.02216.pdf"> Inductive Representation Learning on Large Graphs - GraphSAGE </a> :: <a href = "https://www.notion.so/Inductive-Representation-Learning-on-Large-Graphs-GraphSAGE-905e95556aa248d68cfee086a3ecebfd?pvs=4"> [ paper_review ] </a>
 * <a href = "https://arxiv.org/pdf/1911.03082.pdf?ref=https://githubhelp.com"> Composition-based multi-relational graph convolutional networks - CompGCN </a>
