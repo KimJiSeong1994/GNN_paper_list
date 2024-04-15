@@ -22,6 +22,7 @@
 * <a href = "https://arxiv.org/pdf/1609.02907.pdf"> Semi-Supervised Classification with Graph Convolutional Networks - GCN </a> :: <a href = "https://melon-buffer-f27.notion.site/Semi-supervised-Classification-with-Graph-Convolutional-Networks-06320f5d92c04f418dcefd1fecedba68"> [ paper_review ] </a>
 * <a href = "https://arxiv.org/pdf/1801.03226.pdf"> Adaptive Graph Convolutional Neural Networks - AGCN </a>
 * <a href = "https://arxiv.org/pdf/1904.03751.pdf"> DeepGCNs: Can GCNs Go as Deep as CNNs? - DeepGCN </a>
+* <a href = 'https://arxiv.org/pdf/1905.07953.pdf'> Cluster-GCN: An Efficient Algorithm for Training Deep and Large Graph Convolutional Networks </a>
 * <a href = "https://arxiv.org/pdf/2002.05287.pdf"> GEOM-GCN: Geometric Graph Convolutional networks </a>
 * <a href = "https://arxiv.org/pdf/1706.02263.pdf"> Graph Convolutional Matrix Completion </a>
 * <a href = "https://arxiv.org/pdf/2006.09963.pdf"> GCC: Graph Contrastive Coding for Graph Neural Network Pre-Training </a>
