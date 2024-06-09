@@ -1,4 +1,5 @@
 # GNN paper list survey
+
 **1. Survey**  
 * <a href = "https://arxiv.org/pdf/1810.00826.pdf"> How Powerful Graph Neural Networks? - GIN :: </a> <a href = 'https://www.notion.so/How-Powerful-are-Graph-Neural-Networks-GIN-5fe02410440045c78c00c71c0ac0cea8?pvs=4'> [ paper_review ]</a>
 * <a href = "https://arxiv.org/pdf/1901.00596.pdf?ref=https://githubhelp.com"> A Comprehensive Survey on Graph Neural Networks </a>
@@ -66,7 +67,6 @@
 **5. Community Detection** 
 * <a href = "https://ojs.aaai.org/index.php/AAAI/article/view/3780"> Graph Convolutional Networks Meet Markov Random Fields: Semi-Supervised Community Detection in Attribute Networks </a>
 ---
-
 **6.Knowledge Graph**
 * <a href = "https://proceedings.neurips.cc/paper/2013/file/1cecc7a77928ca8133fa24680a88d2f9-Paper.pdf"> Translating Embeddings for Modeling Multi-relational Data </a>
 * <a href = "https://linyankai.github.io/publications/aaai2015_transr.pdf"> Learning Entity and Relation Embeddings for Knowledge Graph Completion </a>
