@@ -1,14 +1,14 @@
 # GNN paper list survey
 **1. Survey**  
-* <a href = "https://arxiv.org/pdf/1810.00826.pdf"> Xu, K., Hu, W., Leskovec, J., & Jegelka, S. (2018). How powerful are graph neural networks?. arXiv preprint arXiv:1810.00826. </a> <a href = 'https://www.notion.so/How-Powerful-are-Graph-Neural-Networks-GIN-5fe02410440045c78c00c71c0ac0cea8?pvs=4'> [ paper_review ]</a>
-* <a href = "https://arxiv.org/pdf/1901.00596.pdf?ref=https://githubhelp.com"> Wu, Z., Pan, S., Chen, F., Long, G., Zhang, C., & Philip, S. Y. (2020). A comprehensive survey on graph neural networks. IEEE transactions on neural networks and learning systems, 32(1), 4-24. </a>
-* <a href = "https://arxiv.org/pdf/1709.07604.pdf?ref=https://githubhelp.com"> Cai, H., Zheng, V. W., & Chang, K. C. C. (2018). A comprehensive survey of graph embedding: Problems, techniques, and applications. IEEE transactions on knowledge and data engineering, 30(9), 1616-1637. </a>
-* <a href = "https://reader.elsevier.com/reader/sd/pii/S2666651021000012?token=16C2A9332AE81F4D54098EEE79D8535A40695603E95EDA396E895AA03C704FB54F1C28DA614FF06943FA85AEBB7F8603&originRegion=us-east-1&originCreation=20220330071910"> Zhou, J., Cui, G., Hu, S., Zhang, Z., Yang, C., Liu, Z., ... & Sun, M. (2020). Graph neural networks: A review of methods and applications. AI open, 1, 57-81. </a>
-* <a href = "https://arxiv.org/pdf/2109.12843.pdf"> Gao, C., Zheng, Y., Li, N., Li, Y., Qin, Y., Piao, J., ... & Li, Y. (2021). Graph neural networks for recommender systems: Challenges, methods, and directions. arXiv preprint arXiv:2109.12843, 1, 46-58. </a>
-* <a href = "https://arxiv.org/pdf/2205.12454.pdf"> Rampášek, L., Galkin, M., Dwivedi, V. P., Luu, A. T., Wolf, G., & Beaini, D. (2022). Recipe for a general, powerful, scalable graph transformer. Advances in Neural Information Processing Systems, 35, 14501-14515. </a>
-* <a href = "https://arxiv.org/pdf/2301.08210.pdf"> Everything is Connected: Graph Neural Networks </a>
-* <a href = "https://arxiv.org/pdf/2011.14867.pdf"> A Survey on Heterogeneous Graph Embedding : Methods, Techniques, Applications and Sources </a>
-* <a href = 'https://arxiv.org/pdf/0906.0612.pdf%EF%BC%89%E3%80%82'> Community detection in graphs </a>
+* Xu, K., Hu, W., Leskovec, J., & Jegelka, S. (2018). How powerful are graph neural networks?. arXiv preprint arXiv:1810.00826. <a href = "https://arxiv.org/pdf/1810.00826.pdf"> [paper] </a> <a href = 'https://www.notion.so/How-Powerful-are-Graph-Neural-Networks-GIN-5fe02410440045c78c00c71c0ac0cea8?pvs=4'> [paper_review]</a>
+* Wu, Z., Pan, S., Chen, F., Long, G., Zhang, C., & Philip, S. Y. (2020). A comprehensive survey on graph neural networks. IEEE transactions on neural networks and learning systems, 32(1), 4-24. <a href = "https://arxiv.org/pdf/1901.00596.pdf?ref=https://githubhelp.com"> [paper] </a>
+* Cai, H., Zheng, V. W., & Chang, K. C. C. (2018). A comprehensive survey of graph embedding: Problems, techniques, and applications. IEEE transactions on knowledge and data engineering, 30(9), 1616-1637. <a href = "https://arxiv.org/pdf/1709.07604.pdf?ref=https://githubhelp.com"> [paper] </a>
+* Zhou, J., Cui, G., Hu, S., Zhang, Z., Yang, C., Liu, Z., ... & Sun, M. (2020). Graph neural networks: A review of methods and applications. AI open, 1, 57-81. <a href = "https://reader.elsevier.com/reader/sd/pii/S2666651021000012?token=16C2A9332AE81F4D54098EEE79D8535A40695603E95EDA396E895AA03C704FB54F1C28DA614FF06943FA85AEBB7F8603&originRegion=us-east-1&originCreation=20220330071910"> [paper] </a>
+* Gao, C., Zheng, Y., Li, N., Li, Y., Qin, Y., Piao, J., ... & Li, Y. (2021). Graph neural networks for recommender systems: Challenges, methods, and directions. arXiv preprint arXiv:2109.12843, 1, 46-58. <a href = "https://arxiv.org/pdf/2109.12843.pdf"> [paper] </a>
+* Rampášek, L., Galkin, M., Dwivedi, V. P., Luu, A. T., Wolf, G., & Beaini, D. (2022). Recipe for a general, powerful, scalable graph transformer. Advances in Neural Information Processing Systems, 35, 14501-14515. <a href = "https://arxiv.org/pdf/2205.12454.pdf"> [paper] </a>
+* Veličković, P. (2023). Everything is connected: Graph neural networks. Current Opinion in Structural Biology, 79, 102538. <a href = "https://arxiv.org/pdf/2301.08210.pdf"> [paper] </a>
+* Wang, X., Bo, D., Shi, C., Fan, S., Ye, Y., & Philip, S. Y. (2022). A survey on heterogeneous graph embedding: methods, techniques, applications and sources. IEEE Transactions on Big Data, 9(2), 415-436. <a href = "https://arxiv.org/pdf/2011.14867.pdf"> [paper] </a>
+* Fortunato, S. (2010). Community detection in graphs. Physics reports, 486(3-5), 75-174. <a href = 'https://arxiv.org/pdf/0906.0612.pdf%EF%BC%89%E3%80%82'> [paper] </a>
 ---
 
 **2. Aggregate architecture** 
