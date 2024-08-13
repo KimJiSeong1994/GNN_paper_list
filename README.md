@@ -62,6 +62,7 @@
 * <a href = 'https://arxiv.org/pdf/2310.15865.pdf'> Using Causality-Aware Graph Neural Networks to Predict Temporal Centralities in Dynamic Graphs </a>
 
 ---
+
 **5. Community Detection** 
 * <a href = "https://ojs.aaai.org/index.php/AAAI/article/view/3780"> Graph Convolutional Networks Meet Markov Random Fields: Semi-Supervised Community Detection in Attribute Networks </a>
 ---
