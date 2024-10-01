@@ -12,7 +12,6 @@
 ---
 
 **2. Aggregate architecture** 
-
 * <a href = "https://arxiv.org/pdf/1403.6652.pdf"> DeepWalk - Online Learning of Social Representations </a> :: <a href = "https://melon-buffer-f27.notion.site/DeeWalk-Onlie-Learning-of-Social-Representations-eecf671ad29145c39dff869323114335"> [ paper_review ] </a>
 * <a href = "https://arxiv.org/pdf/1607.00653.pdf"> node2vec: Scalable Feature Learning for Networks </a> :: <a href = "https://melon-buffer-f27.notion.site/Node2Vec-Scalable-Feautre-Learning-for-Networks-97d414518f674c92adf8b7f2b432e717"> [ paper_review ] </a>
 * <a href = "https://www.kdd.org/kdd2016/papers/files/rfp0191-wangAemb.pdf"> Structural Deep Network Embedding : SDNE </a> :: <a href = "https://www.notion.so/Structural-Deep-Network-Embedding-SDNE-181c5c19b4e94eb680416e857f69c038?pvs=4"> [ paper review ] </a>
