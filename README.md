@@ -77,6 +77,7 @@
 ---
 
 **7. Application**
+* <a href = 'https://arxiv.org/pdf/2411.07207' > Agarwal, M., Sun, M., Kamath, C., Muslim, A., Sarker, P., Paul, J., ... & Prasad, G. (2024). General Geospatial Inference with a Population Dynamics Foundation Model. arXiv preprint arXiv:2411.07207. </a>
 * <a href = "https://arxiv.org/pdf/1809.05679.pdf"> Graph Convoultional Networks for Text Classification </a>
 * <a href = "https://aclanthology.org/K17-1045.pdf"> Graph-based Neural Multi-Document Summarization </a>
 * <a href = "https://arxiv.org/pdf/1903.03894.pdf"> GNNExplainer : Generating Explanations for Graph Neural Networks </a> :: <a href = "https://www.notion.so/Adaptive-Graph-Convolutional-Neural-Networks-AGCN-de355b6c34cc4577bdd7d9f7d959c71d?pvs=4"> [ paper_review ] </a>
