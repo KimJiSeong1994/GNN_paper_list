@@ -9,6 +9,7 @@
 * Veličković, P. (2023). Everything is connected: Graph neural networks. Current Opinion in Structural Biology, 79, 102538. <a href = "https://arxiv.org/pdf/2301.08210.pdf"> [paper] </a>
 * Wang, X., Bo, D., Shi, C., Fan, S., Ye, Y., & Philip, S. Y. (2022). A survey on heterogeneous graph embedding: methods, techniques, applications and sources. IEEE Transactions on Big Data, 9(2), 415-436. <a href = "https://arxiv.org/pdf/2011.14867.pdf"> [paper] </a>
 * Fortunato, S. (2010). Community detection in graphs. Physics reports, 486(3-5), 75-174. <a href = 'https://arxiv.org/pdf/0906.0612.pdf%EF%BC%89%E3%80%82'> [paper] </a>
+* Peng, B., Zhu, Y., Liu, Y., Bo, X., Shi, H., Hong, C., ... & Tang, S. (2024). Graph retrieval-augmented generation: A survey. arXiv preprint arXiv:2408.08921. <a href = 'https://www.arxiv.org/pdf/2408.08921'> [paper] </a>
 ---
 
 **2. Aggregate architecture** 
