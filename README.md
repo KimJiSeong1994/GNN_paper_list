@@ -14,7 +14,7 @@
 
 **2. Aggregate architecture** 
 
-* <a href = "https://arxiv.org/pdf/1403.6652.pdf"> DeepWalk - Online Learning of Social Representations </a> :: <a href = "https://melon-buffer-f27.notion.site/DeeWalk-Onlie-Learning-of-Social-Representations-eecf671ad29145c39dff869323114335"> [ paper_review ] </a>
+* Perozzi, B., Al-Rfou, R., & Skiena, S. (2014, August). Deepwalk: Online learning of social representations. In Proceedings of the 20th ACM SIGKDD international conference on Knowledge discovery and data mining (pp. 701-710). <a href = "https://arxiv.org/pdf/1403.6652.pdf"> [paper] </a> :: <a href = "https://melon-buffer-f27.notion.site/DeeWalk-Onlie-Learning-of-Social-Representations-eecf671ad29145c39dff869323114335"> [ paper_review ] </a>
 * <a href = "https://arxiv.org/pdf/1607.00653.pdf"> node2vec: Scalable Feature Learning for Networks </a> :: <a href = "https://melon-buffer-f27.notion.site/Node2Vec-Scalable-Feautre-Learning-for-Networks-97d414518f674c92adf8b7f2b432e717"> [ paper_review ] </a>
 * <a href = "https://www.kdd.org/kdd2016/papers/files/rfp0191-wangAemb.pdf"> Structural Deep Network Embedding : SDNE </a> :: <a href = "https://www.notion.so/Structural-Deep-Network-Embedding-SDNE-181c5c19b4e94eb680416e857f69c038?pvs=4"> [ paper review ] </a>
 * <a href = "https://arxiv.org/pdf/2002.01633.pdf"> Structural Deep Clustering Network </a>
