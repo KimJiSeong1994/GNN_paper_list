@@ -20,7 +20,7 @@
 * Bo, D., Wang, X., Shi, C., Zhu, M., Lu, E., & Cui, P. (2020, April). Structural deep clustering network. In Proceedings of the web conference 2020 (pp. 1400-1410). <a href = "https://arxiv.org/pdf/2002.01633.pdf"> [paper] </a>
 * Yanchenko, E., Murata, T., & Holme, P. (2023). Link prediction for ex ante influence maximization on temporal networks. Applied Network Science, 8(1), 70. <a href = "https://arxiv.org/pdf/2305.09965.pdf"> [paper] </a>
 * Fu, X., Zhang, J., Meng, Z., & King, I. (2020, April). Magnn: Metapath aggregated graph neural network for heterogeneous graph embedding. In Proceedings of the web conference 2020 (pp. 2331-2341). <a href = "https://arxiv.org/pdf/2002.01680.pdf"> [paper] </a>
-* <a href = "https://arxiv.org/pdf/1609.02907.pdf"> Semi-Supervised Classification with Graph Convolutional Networks - GCN </a> :: <a href = "https://melon-buffer-f27.notion.site/Semi-supervised-Classification-with-Graph-Convolutional-Networks-06320f5d92c04f418dcefd1fecedba68"> [ paper_review ] </a>
+* Kipf, T. N., & Welling, M. (2016). Semi-supervised classification with graph convolutional networks. arXiv preprint arXiv:1609.02907. <a href = "https://arxiv.org/pdf/1609.02907.pdf"> [paper] </a> :: <a href = "https://melon-buffer-f27.notion.site/Semi-supervised-Classification-with-Graph-Convolutional-Networks-06320f5d92c04f418dcefd1fecedba68"> [ paper_review ] </a>
 * <a href = "https://arxiv.org/pdf/1801.03226.pdf"> Adaptive Graph Convolutional Neural Networks - AGCN </a>
 * <a href = "https://arxiv.org/pdf/1904.03751.pdf"> DeepGCNs: Can GCNs Go as Deep as CNNs? - DeepGCN </a>
 * <a href = 'https://arxiv.org/pdf/1905.07953.pdf'> Cluster-GCN: An Efficient Algorithm for Training Deep and Large Graph Convolutional Networks </a>
