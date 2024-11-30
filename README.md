@@ -21,8 +21,8 @@
 * Yanchenko, E., Murata, T., & Holme, P. (2023). Link prediction for ex ante influence maximization on temporal networks. Applied Network Science, 8(1), 70. <a href = "https://arxiv.org/pdf/2305.09965.pdf"> [paper] </a>
 * Fu, X., Zhang, J., Meng, Z., & King, I. (2020, April). Magnn: Metapath aggregated graph neural network for heterogeneous graph embedding. In Proceedings of the web conference 2020 (pp. 2331-2341). <a href = "https://arxiv.org/pdf/2002.01680.pdf"> [paper] </a>
 * Kipf, T. N., & Welling, M. (2016). Semi-supervised classification with graph convolutional networks. arXiv preprint arXiv:1609.02907. <a href = "https://arxiv.org/pdf/1609.02907.pdf"> [paper] </a> :: <a href = "https://melon-buffer-f27.notion.site/Semi-supervised-Classification-with-Graph-Convolutional-Networks-06320f5d92c04f418dcefd1fecedba68"> [ paper_review ] </a>
-* <a href = "https://arxiv.org/pdf/1801.03226.pdf"> Adaptive Graph Convolutional Neural Networks - AGCN </a>
-* <a href = "https://arxiv.org/pdf/1904.03751.pdf"> DeepGCNs: Can GCNs Go as Deep as CNNs? - DeepGCN </a>
+* Li, R., Wang, S., Zhu, F., & Huang, J. (2018, April). Adaptive graph convolutional neural networks. In Proceedings of the AAAI conference on artificial intelligence (Vol. 32, No. 1). <a href = "https://arxiv.org/pdf/1801.03226.pdf"> [pages] </a>
+* Li, G., Muller, M., Thabet, A., & Ghanem, B. (2019). Deepgcns: Can gcns go as deep as cnns?. In Proceedings of the IEEE/CVF international conference on computer vision (pp. 9267-9276). <a href = "https://arxiv.org/pdf/1904.03751.pdf">  [paper] </a>
 * <a href = 'https://arxiv.org/pdf/1905.07953.pdf'> Cluster-GCN: An Efficient Algorithm for Training Deep and Large Graph Convolutional Networks </a>
 * <a href = "https://arxiv.org/pdf/2002.05287.pdf"> GEOM-GCN: Geometric Graph Convolutional networks </a>
 * <a href = "https://arxiv.org/pdf/1706.02263.pdf"> Graph Convolutional Matrix Completion </a>
