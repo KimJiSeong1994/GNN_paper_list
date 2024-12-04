@@ -23,8 +23,8 @@
 * Kipf, T. N., & Welling, M. (2016). Semi-supervised classification with graph convolutional networks. arXiv preprint arXiv:1609.02907. <a href = "https://arxiv.org/pdf/1609.02907.pdf"> [paper] </a> :: <a href = "https://melon-buffer-f27.notion.site/Semi-supervised-Classification-with-Graph-Convolutional-Networks-06320f5d92c04f418dcefd1fecedba68"> [ paper_review ] </a>
 * Li, R., Wang, S., Zhu, F., & Huang, J. (2018, April). Adaptive graph convolutional neural networks. In Proceedings of the AAAI conference on artificial intelligence (Vol. 32, No. 1). <a href = "https://arxiv.org/pdf/1801.03226.pdf"> [pages] </a>
 * Li, G., Muller, M., Thabet, A., & Ghanem, B. (2019). Deepgcns: Can gcns go as deep as cnns?. In Proceedings of the IEEE/CVF international conference on computer vision (pp. 9267-9276). <a href = "https://arxiv.org/pdf/1904.03751.pdf">  [paper] </a>
-* <a href = 'https://arxiv.org/pdf/1905.07953.pdf'> Cluster-GCN: An Efficient Algorithm for Training Deep and Large Graph Convolutional Networks </a>
-* <a href = "https://arxiv.org/pdf/2002.05287.pdf"> GEOM-GCN: Geometric Graph Convolutional networks </a>
+* Chiang, W. L., Liu, X., Si, S., Li, Y., Bengio, S., & Hsieh, C. J. (2019, July). Cluster-gcn: An efficient algorithm for training deep and large graph convolutional networks. In Proceedings of the 25th ACM SIGKDD international conference on knowledge discovery & data mining (pp. 257-266). <a href = 'https://arxiv.org/pdf/1905.07953.pdf'> [paper] </a>
+* Pei, H., Wei, B., Chang, K. C. C., Lei, Y., & Yang, B. (2020). Geom-gcn: Geometric graph convolutional networks. arXiv preprint arXiv:2002.05287. <a href = "https://arxiv.org/pdf/2002.05287.pdf"> [paper] </a>
 * <a href = "https://arxiv.org/pdf/1706.02263.pdf"> Graph Convolutional Matrix Completion </a>
 * <a href = "https://arxiv.org/pdf/2006.09963.pdf"> GCC: Graph Contrastive Coding for Graph Neural Network Pre-Training </a>
 * <a href = 'https://arxiv.org/pdf/1808.03965.pdf'> LGCN: Large-Scale Learnable Graph Convolutional Networks </a>
