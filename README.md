@@ -25,10 +25,10 @@
 * Li, G., Muller, M., Thabet, A., & Ghanem, B. (2019). Deepgcns: Can gcns go as deep as cnns?. In Proceedings of the IEEE/CVF international conference on computer vision (pp. 9267-9276). <a href = "https://arxiv.org/pdf/1904.03751.pdf">  [paper] </a>
 * Chiang, W. L., Liu, X., Si, S., Li, Y., Bengio, S., & Hsieh, C. J. (2019, July). Cluster-gcn: An efficient algorithm for training deep and large graph convolutional networks. In Proceedings of the 25th ACM SIGKDD international conference on knowledge discovery & data mining (pp. 257-266). <a href = 'https://arxiv.org/pdf/1905.07953.pdf'> [paper] </a>
 * Pei, H., Wei, B., Chang, K. C. C., Lei, Y., & Yang, B. (2020). Geom-gcn: Geometric graph convolutional networks. arXiv preprint arXiv:2002.05287. <a href = "https://arxiv.org/pdf/2002.05287.pdf"> [paper] </a>
-* <a href = "https://arxiv.org/pdf/1706.02263.pdf"> Graph Convolutional Matrix Completion </a>
-* <a href = "https://arxiv.org/pdf/2006.09963.pdf"> GCC: Graph Contrastive Coding for Graph Neural Network Pre-Training </a>
-* <a href = 'https://arxiv.org/pdf/1808.03965.pdf'> LGCN: Large-Scale Learnable Graph Convolutional Networks </a>
-* <a href = 'http://shichuan.org/doc/86.pdf'> AM-GCN: Adaptive Multi-channel Graph Convolutional Networks </a>
+* Van Den Berg, R., Thomas, N. K., & Welling, M. (2017). Graph convolutional matrix completion. arXiv preprint arXiv:1706.02263, 2(8), 9. <a href = "https://arxiv.org/pdf/1706.02263.pdf"> [paper] </a>
+* Qiu, J., Chen, Q., Dong, Y., Zhang, J., Yang, H., Ding, M., ... & Tang, J. (2020, August). Gcc: Graph contrastive coding for graph neural network pre-training. In Proceedings of the 26th ACM SIGKDD international conference on knowledge discovery & data mining (pp. 1150-1160).  <a href = "https://arxiv.org/pdf/2006.09963.pdf"> [paper] </a>
+* Gao, H., Wang, Z., & Ji, S. (2018, July). Large-scale learnable graph convolutional networks. In Proceedings of the 24th ACM SIGKDD international conference on knowledge discovery & data mining (pp. 1416-1424). <a href = 'https://arxiv.org/pdf/1808.03965.pdf'> [paper] </a>
+* Wang, X., Zhu, M., Bo, D., Cui, P., Shi, C., & Pei, J. (2020, August). Am-gcn: Adaptive multi-channel graph convolutional networks. In Proceedings of the 26th ACM SIGKDD International conference on knowledge discovery & data mining (pp. 1243-1253). <a href = 'http://shichuan.org/doc/86.pdf'> [paper] </a>
 
 * <a href = "https://arxiv.org/pdf/1511.05493.pdf"> Gated Graph Sequence Neural Networks - GGNN </a>
 * <a href = "https://arxiv.org/pdf/1706.02216.pdf"> Inductive Representation Learning on Large Graphs - GraphSAGE </a> :: <a href = "https://www.notion.so/Inductive-Representation-Learning-on-Large-Graphs-GraphSAGE-905e95556aa248d68cfee086a3ecebfd?pvs=4"> [ paper_review ] </a>
