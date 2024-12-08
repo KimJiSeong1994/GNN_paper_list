@@ -1,4 +1,5 @@
 # GNN paper list survey
+
 **1. Survey**  
 * Xu, K., Hu, W., Leskovec, J., & Jegelka, S. (2018). How powerful are graph neural networks?. arXiv preprint arXiv:1810.00826. <a href = "https://arxiv.org/pdf/1810.00826.pdf"> [paper] </a> <a href = 'https://www.notion.so/How-Powerful-are-Graph-Neural-Networks-GIN-5fe02410440045c78c00c71c0ac0cea8?pvs=4'> [paper_review]</a>
 * Wu, Z., Pan, S., Chen, F., Long, G., Zhang, C., & Philip, S. Y. (2020). A comprehensive survey on graph neural networks. IEEE transactions on neural networks and learning systems, 32(1), 4-24. <a href = "https://arxiv.org/pdf/1901.00596.pdf?ref=https://githubhelp.com"> [paper] </a>
