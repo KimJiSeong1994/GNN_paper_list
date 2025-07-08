@@ -52,6 +52,7 @@
 ---
 
 **3. Graph Pooling**
+
 * <a href = "https://arxiv.org/pdf/1905.05178.pdf"> Graph U-Nets </a>
 * <a href = "https://arxiv.org/pdf/1806.08804.pdf"> Hierarchical Graph Representation Learning with Differentiable Pooling </a>
 * <a href = "https://arxiv.org/pdf/1904.13107.pdf"> Graph Convolutional Networks with EigenPooling </a>
